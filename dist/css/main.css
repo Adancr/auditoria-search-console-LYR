@@ -1,0 +1,17 @@
+.container {
+  max-width: 960px;
+  margin: auto;
+}
+
+.error {
+  color: red;
+}
+
+.correccion {
+  color: #ffbb00;
+}
+
+.ok {
+  color: green;
+}
+/*# sourceMappingURL=main.css.map */
